@@ -55,7 +55,6 @@ ul {
     padding: 0;
 }
 
-
 button {
     margin-left: 50%;
     margin-bottom: 50%;
@@ -166,6 +165,7 @@ h5 {
     100% {
         transform: rotate(360deg);
     }
+    
 }
 
 body {
@@ -206,54 +206,65 @@ a {
 }
 
 @media (min-width:1200px){
+    
     .TextEnterBirthday {
         font-size: 350%;
     }
+    
     .PicturesEarth{
         width: 1150px;
         height:1150px;
         margin-top: -950px;
     }
+    
     .DaysOnEarth{
         font-size: 750%;
         margin-top: 20%;
     }
+    
     .name{
         font-size: 90%;
         margin-left: -25%;
         margin-right: 10%;
     }
+    
     .BirthdayField{
         margin-left: 40%;
     }
+    
     .calculatedAnswer{
         font-size: 20px;
     }
 
 }
 
-
 @media (min-width:1000px) and (max-width: 1200px){
+    
     .TextEnterBirthday {
         font-size: 350%;
     }
+    
     .PicturesEarth{
         width: 950px;
         height:950px;
         margin-top: -750px;
     }
+    
     .DaysOnEarth{
         font-size: 750%;
         margin-top: 20%;
     }
+    
     .name{
         font-size: 90%;
         margin-left: -25%;
         margin-right: 10%;
     }
+    
     .BirthdayField{
         margin-left: 40%;
     }
+    
     .calculatedAnswer{
         font-size: 20px;
     }
@@ -261,18 +272,22 @@ a {
 }
 
 @media (min-width:800px) and (max-width: 1000px){
+    
     .TextEnterBirthday {
         font-size: 350%;
     }
+    
     .PicturesEarth{
         width: 800px;
         height:800px;
         margin-top: -650px;
     }
+    
     .DaysOnEarth{
         font-size: 650%;
         margin-top: 20%;
     }
+    
     .name{
         font-size: 90%;
         margin-left: -25%;
@@ -295,15 +310,18 @@ a {
     .TextEnterBirthday {
         font-size: 250%;
     }
+    
     .PicturesEarth{
         width: 650px;
         height: 650px;
         margin-top: -540px;
     }
+    
     .DaysOnEarth{
         font-size: 500%;
         margin-top: 20%;
     }
+    
     .name{
         font-size: 90%;
         margin-left: -17%;
@@ -320,6 +338,7 @@ a {
     }
 
 }
+
 @media (min-width:550px) and (max-width: 655px) {
 
     .name {
@@ -362,9 +381,11 @@ a {
     .calculatedAnswer{
         font-size: 20px;
     }
+    
     .BirthdayField{
         margin-left: 35%;
     }
+    
 }
 
 @media (min-width: 450px) and (max-width: 550px) {
@@ -410,9 +431,11 @@ a {
     .calculatedAnswer{
         font-size: 20px;
     }
+    
     .BirthdayField{
         margin-left: 33%;
     }
+    
 }
 
 @media (min-width: 350px) and (max-width: 450px) {
@@ -454,11 +477,12 @@ a {
             padding-right: 5%;
             margin-left: 5%;
         }
+    
         .calculatedAnswer{
             font-size: 20px;
         }
+    
         .BirthdayField{
             margin-left: 28%;
         }
-
 }
