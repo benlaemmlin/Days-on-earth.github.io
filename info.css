@@ -12,7 +12,7 @@ html, body {
     position: fixed;
     font-family: "serif";
     transform: translate(-50%, -50%);
-    margin-top: 19px;
+    margin-top: 20px;
     margin-right: 65%;
     font-size: 18px;
     font-weight: 900;
@@ -94,7 +94,7 @@ body{
 
     .title-1{
         font-size: 5vw;
-        margin-top: 60vw;
+        margin-top: 40vw;
     }
 
     .first-text-background{
@@ -131,7 +131,7 @@ body{
 
     .title-1{
         font-size: 4.5vw;
-        margin-top: 60vw;
+        margin-top:30vw;
     }
 
     .first-text-background{
@@ -142,7 +142,7 @@ body{
         font-size: 3vw;
         margin-left: 23vw;
         margin-right: 30vw;
-        margin-top:20;
+        margin-top:5vw;
         padding: 12px;
     }
 
@@ -151,7 +151,7 @@ body{
         padding-left: 120vw;
         font-size: 3vw;
         padding-bottom: 20px;
-        padding-top: 90px;
+        padding-top: 80px;
     }
 
     .InfoButton {
@@ -169,23 +169,25 @@ body{
 
     .title-1{
         font-size: 5vw;
-        margin-top: 3px;
+        margin-top: 19vw;
+
     }
 
     .first-text-background{
-        font-size: 4vw;
+        font-size: 3vw;
+        padding-bottom: 30vw;
     }
 
     .name {
-        font-size: 2vw;
-        margin-left: 0vw;
+        font-size: 3vw;
+        margin-left: 25vw;
         margin-right: 30vw;
         margin-top: 3vw;
         padding: 15px;
     }
 
     .main-nav {
-        margin-left: 60vw;
+        margin-left: 25vw;
         padding-left: 120vw;
         font-size: 3vw;
         padding-bottom: 3vw;
