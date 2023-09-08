@@ -4,7 +4,7 @@ html, body {
 }
 
 * {
-    margin-left: 9vw;
+    margin-left: 5vw;
 }
 .name {
     text-align: left;
@@ -193,7 +193,7 @@ body {
 }
 
 .HomeButton {
-    padding-left: 1%;
+    padding-left: 1px;
 }
 
 .InfoButton {
@@ -373,7 +373,7 @@ a {
         font-size: 11vw;
         margin-top: 210px;
         -webkit-text-stroke: 3px black;
-        margin-left: 1vw;
+        margin-left: 3vw;
     }
 
     .name {
@@ -403,7 +403,7 @@ a {
 
     .links {
         padding-right: 10vw;
-        margin-left: 10vw;
+        margin-left: 5vw;
         font-size:  2vw;
     }
 
@@ -448,7 +448,7 @@ a {
         font-size: 9vw;
         margin-top: 25vh;
         -webkit-text-stroke: 3px black;
-        margin-left: 1vw;
+        margin-left: 3vw;
     }
 
     .name {
@@ -462,6 +462,7 @@ a {
     .TextEnterBirthday {
         font-size: 5.5vw;
         -webkit-text-stroke: 3px black;
+        margin-left: -5vw;
     }
 
     .main-nav {
@@ -478,18 +479,18 @@ a {
 
     .links {
         padding-right: 10vw;
-        margin-left: 10vw;
+        margin-left: 5vw;
         font-size:  2vw;
     }
 
     .BirthdayField{
         font-size: 2.5vw;
-        margin-left: 25vw;
+        margin-left: 22vw;
     }
 
     .button-calculator{
         font-size: 2vw;
-        margin-left:0vw;
+        margin-left:5vw;
     }
 
     .calculatedAnswer{
