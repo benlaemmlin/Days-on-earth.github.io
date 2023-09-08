@@ -180,8 +180,9 @@ body {
     min-height: 100vh;
     overflow-x: hidden;
     background-image: url('stars-1654074.jpg');
-    background-size: cover; /* Das Bild wird so skaliert, dass es den gesamten Hintergrund bedeckt */
+    background-size: cover;
     background-repeat: no-repeat;
+    margin-right: -13vw;
 }
 
 .container {
@@ -317,9 +318,8 @@ a {
 
     .name {
         font-size: 3vw;
-        margin-left: 20vw;
-        margin-right: 30vw;
-        margin-top: 2.5vw;
+        margin-left: 0vw;
+        margin-top: -1vw;
         padding: 12px;
     }
 
@@ -329,7 +329,7 @@ a {
     }
 
     .main-nav {
-        margin-left: 170vw;
+        margin-left: 190vw;
         padding-left: 120vw;
         font-size: 3.5vw;
     }
