@@ -83,6 +83,7 @@ h5 {
     top: 35px;
     margin-top: 30px;
     font-family: "Avenir";
+    color: white;
 }
 
 .myH9 {
@@ -91,6 +92,7 @@ h5 {
     top: 25px;
     font-family: "Avenir";
     font-size: 20px;
+    color: white;
 }
 
 .myH8 {
@@ -99,6 +101,7 @@ h5 {
     top: 25px;
     font-family: "Avenir";
     font-size: 20px;
+    color: white;
 }
 
 .myH7 {
@@ -107,6 +110,7 @@ h5 {
     top: 25px;
     font-family: "Avenir";
     font-size: 20px;
+    color: white;
 }
 
 .myH10 {
@@ -115,6 +119,7 @@ h5 {
     top: 25px;
     font-family: "Avenir";
     font-size: 20px;
+    color: white;
 }
 
 .button-calculator {
@@ -174,6 +179,9 @@ body {
     place-items: center;
     min-height: 100vh;
     overflow-x: hidden;
+    background-image: url('stars-1654074.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -208,10 +216,7 @@ a {
 
 
 @media (min-width: 100px) {
-    * {
-    margin-left: 3vw;
-    }
-    
+
     .PicturesEarth {
         width: 90vw;
         height: 90vw;
@@ -288,10 +293,6 @@ a {
 }
 
 @media (min-width: 700px) {
-
-    * {
-        margin-left: 5vw;
-    }
 
     .PicturesEarth {
         width: 90vw;
@@ -483,7 +484,7 @@ a {
 
     .links {
         padding-right: 10vw;
-        margin-left: 5vw;
+        margin-left: 10vw;
         font-size:  2vw;
     }
 
