@@ -4,9 +4,8 @@ html, body {
 }
 
 * {
-    margin-left: 3vw;
+    margin-left: 5vw;
 }
-
 .name {
     text-align: left;
     accent-color: lightslategray;
@@ -228,10 +227,10 @@ a {
     }
 
     .name {
-        font-size: 3.2vw;
+        font-size: 8vw;
         margin-left: 1vw;
         margin-right: 1px;
-        margin-top: 3vh;
+        margin-top: 2vh;
         padding: 9px;
     }
 
@@ -241,8 +240,9 @@ a {
     }
 
     .main-nav {
-        margin-left: 160vw;
+        margin-left: 130vw;
         padding-left: 120vw;
+        font-size: 4vw;
     }
 
     .InfoButton {
@@ -304,11 +304,11 @@ a {
     }
 
     .name {
-        font-size: 2vw;
-        margin-left: 0vw;
+        font-size: 3vw;
+        margin-left: 12vw;
         margin-right: 30vw;
-        margin-top: 3vw;
-        padding: 15px;
+        margin-top: 0vw;
+        padding: 12px;
     }
 
     .TextEnterBirthday {
@@ -327,8 +327,8 @@ a {
     }
 
     .links {
-        padding-right: 5%;
-        margin-left: 5%;
+        padding-right: 5vw;
+        margin-left:-5vw;
         font-size:  3vw;
     }
 
@@ -380,7 +380,7 @@ a {
         font-size: 2vw;
         margin-left: 0vw;
         margin-right: 30vw;
-        margin-top: 0vw;
+        margin-top: 3vw;
         padding: 15px;
     }
 
@@ -390,7 +390,7 @@ a {
     }
 
     .main-nav {
-        margin-left: 180vw;
+        margin-left: 190vw;
         padding-left: 120vw;
         font-size: 2vw;
         padding-bottom: 3vw;
@@ -403,7 +403,7 @@ a {
 
     .links {
         padding-right: 5vw;
-        margin-left: 5vw;
+        margin-left:-5vw;
         font-size:  2vw;
     }
 
@@ -477,8 +477,8 @@ a {
     }
 
     .links {
-        padding-right: 5vw;
-        margin-left: 5vw;
+        padding-right: 0vw;
+        margin-left:-5vw;
         font-size:  2vw;
     }
 
