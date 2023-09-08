@@ -209,10 +209,6 @@ a {
 
 @media (min-width: 100px) {
 
-    * {
-        margin-left: 10vw;
-    }
-
     .PicturesEarth {
         width: 90vw;
         height: 90vw;
@@ -290,10 +286,6 @@ a {
 
 @media (min-width: 700px) {
 
-    * {
-        margin-left: 10vw;
-    }
-
     .PicturesEarth {
         width: 90vw;
         height: 90vw;
@@ -310,9 +302,9 @@ a {
 
     .name {
         font-size: 3vw;
-        margin-left: 12vw;
+        margin-left: 20vw;
         margin-right: 30vw;
-        margin-top: 1vw;
+        margin-top: -0.5vw;
         padding: 12px;
     }
 
