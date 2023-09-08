@@ -180,7 +180,7 @@ body {
     min-height: 100vh;
     overflow-x: hidden;
     background-image: url('stars-1654074.jpg');
-    background-size: cover;
+    background-size: cover; /* Das Bild wird so skaliert, dass es den gesamten Hintergrund bedeckt */
     background-repeat: no-repeat;
 }
 
@@ -221,7 +221,7 @@ a {
         width: 90vw;
         height: 90vw;
         margin-top: -70vw;
-        margin-left: 0vw;
+        margin-left: 5vw;
     }
 
     .DaysOnEarth {
@@ -242,6 +242,7 @@ a {
     .TextEnterBirthday {
         font-size: 6vw;
         -webkit-text-stroke: 1px black;
+        margin-left: 1vw;
     }
 
     .main-nav {
@@ -258,6 +259,7 @@ a {
         padding-right: 10vw;
         margin-left: 10vw;
         font-size:  6vw;
+        margin-top: 40%;
     }
 
     .calculatedAnswer{
@@ -266,28 +268,33 @@ a {
 
     .BirthdayField{
         font-size: 4vw;
-        margin-left: 27vw;
+        margin-left: 23.5vw;
     }
 
     .button-calculator{
         font-size: 3vw;
-        margin-left:0vw;
+        margin-left: 7.5vw;
     }
 
     .calculatedAnswer{
         font-size: 5vw;
+        margin-left: 5vw;
     }
 
-    .myH9{font-size: 4vw;
+    .myH9{
+        font-size: 4vw;
+        margin-left: 5vw;
 
     }
 
     .myH8{
         font-size: 4vw;
+        margin-left: 5vw;
     }
 
     .myH7{
         font-size: 4vw;
+        margin-left: 5vw;
     }
 
 }
@@ -305,7 +312,7 @@ a {
         font-size: 11vw;
         margin-top: 130px;
         -webkit-text-stroke: 1px black;
-        margin-left: 1vw;
+        margin-left: -3vw;
     }
 
     .name {
@@ -333,34 +340,40 @@ a {
 
     .links {
         padding-right: 10vw;
-        margin-left: 10vw;
+        margin-left: 5vw;
         font-size:  3vw;
+        padding-left: vw;
     }
 
     .BirthdayField{
         font-size: 3vw;
-        margin-left: 30vw;
+        margin-left: 29vw;
     }
 
     .button-calculator{
         font-size: 3vw;
-        margin-left:0vw;
+        margin-left:-5vw;
     }
 
     .calculatedAnswer{
         font-size: 4vw;
+        margin-left: -6vw;
     }
 
-    .myH9{font-size: 3vw;
+    .myH9{
+        font-size: 3vw;
+        margin-left: -5vw;
 
     }
 
     .myH8{
         font-size: 3vw;
+        margin-left: -5vw;
     }
 
     .myH7{
         font-size: 3vw;
+        margin-left: -5vw;
     }
 
 }
@@ -426,7 +439,8 @@ a {
         font-size: 3vw;
     }
 
-    .myH9{font-size: 3vw;
+    .myH9{
+        font-size: 3vw;
 
     }
 
@@ -453,7 +467,7 @@ a {
         font-size: 9vw;
         margin-top: 25vh;
         -webkit-text-stroke: 3px black;
-        margin-left: 3vw;
+        margin-left: -3vw;
     }
 
     .name {
@@ -484,34 +498,38 @@ a {
 
     .links {
         padding-right: 10vw;
-        margin-left: 10vw;
         font-size:  2vw;
+        margin-left: 10vw;
     }
 
     .BirthdayField{
         font-size: 2.5vw;
-        margin-left: 22vw;
+        margin-left: 18.5vw;
     }
 
     .button-calculator{
         font-size: 2vw;
-        margin-left:5vw;
+        margin-left:-5vw;
     }
 
     .calculatedAnswer{
         font-size: 3vw;
+        margin-left: -5vw;
     }
 
-    .myH9{font-size: 3vw;
-
+    .myH9{
+        font-size: 3vw;
+        margin-left: -5vw;
     }
 
     .myH8{
         font-size: 3vw;
+        margin-left: -5vw;
     }
 
     .myH7{
         font-size: 3vw;
+
     }
 
 }
