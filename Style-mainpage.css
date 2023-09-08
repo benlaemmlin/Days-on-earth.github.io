@@ -304,11 +304,11 @@ a {
     }
 
     .name {
-        font-size: 3vw;
-        margin-left: 12vw;
+        font-size: 2vw;
+        margin-left: 0vw;
         margin-right: 30vw;
-        margin-top: 25px;
-        padding: 12px;
+        margin-top: 3vw;
+        padding: 15px;
     }
 
     .TextEnterBirthday {
