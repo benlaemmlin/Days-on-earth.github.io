@@ -3,6 +3,10 @@ html, body {
     margin: 0;
 }
 
+* {
+    margin-left: 5vw;
+}
+
 .name {
     text-align: left;
     accent-color: lightslategray;
