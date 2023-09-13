@@ -1,3 +1,5 @@
+
+
 html, body {
     padding: 0;
     margin: 0;
@@ -218,11 +220,12 @@ a {
 
 @media (min-width: 100px) {
 
+
     .PicturesEarth {
         width: 90vw;
         height: 90vw;
         margin-top: -70vw;
-        margin-left: 5vw;
+        margin-left: -1.5vw;
     }
 
     .DaysOnEarth {
@@ -236,7 +239,7 @@ a {
         font-size: 3vw;
         margin-left: -1vw;
         margin-right: 1px;
-        margin-top: 2vh;
+        margin-top: 2.5vh;
         padding: 9px;
     }
 
@@ -250,6 +253,7 @@ a {
         margin-left: 170vw;
         padding-left: 120vw;
         font-size: 4vw;
+        padding-right: 1vw;
     }
 
     .InfoButton {
@@ -257,8 +261,8 @@ a {
     }
 
     .links {
-        padding-right: 10vw;
-        margin-left: 10vw;
+        padding-right: 1vw;
+        margin-left: 0vw;
         font-size:  6vw;
         margin-top: 40%;
     }
@@ -298,6 +302,10 @@ a {
         margin-left: 5vw;
     }
 
+    body{
+        margin-right: 0vw;
+    }
+
 }
 
 @media (min-width: 700px) {
@@ -306,7 +314,7 @@ a {
         width: 90vw;
         height: 90vw;
         margin-top: -70vw;
-        margin-left: 0vw;
+        margin-left: -1vw;
     }
 
     .DaysOnEarth {
@@ -319,7 +327,7 @@ a {
     .name {
         font-size: 3vw;
         margin-left: 0vw;
-        margin-top: -1vw;
+        margin-top: 0vh;
         padding: 12px;
     }
 
@@ -329,7 +337,7 @@ a {
     }
 
     .main-nav {
-        margin-left: 190vw;
+        margin-left: 170vw;
         padding-left: 120vw;
         font-size: 3.5vw;
     }
@@ -339,46 +347,52 @@ a {
     }
 
     .links {
-        padding-right: 10vw;
-        margin-left: 5vw;
+        padding-right: 1vw;
+        margin-left: 0vw;
         font-size:  3vw;
-        padding-left: vw;
     }
 
     .BirthdayField{
         font-size: 3vw;
-        margin-left: 29vw;
+        margin-left: 32.5vw;
     }
 
     .button-calculator{
         font-size: 3vw;
-        margin-left:-5vw;
+        margin-left: 0vw;
     }
 
     .calculatedAnswer{
         font-size: 4vw;
-        margin-left: -6vw;
+        margin-left: 0vw;
     }
 
     .myH9{
         font-size: 3vw;
-        margin-left: -5vw;
+        margin-left: 0vw;
 
     }
 
     .myH8{
         font-size: 3vw;
-        margin-left: -5vw;
+        margin-left: 0vw;
     }
 
     .myH7{
         font-size: 3vw;
-        margin-left: -5vw;
+        margin-left: 0vw;
+    }
+
+    body{
+        margin-right: 0vw;
     }
 
 }
 
 @media (min-width: 1100px) {
+    * {
+        margin-right: 9vw;
+    }
 
     .PicturesEarth {
         width: 90vw;
@@ -391,15 +405,19 @@ a {
         font-size: 11vw;
         margin-top: 210px;
         -webkit-text-stroke: 3px black;
-        margin-left: 3vw;
+        margin-left: -5vw;
     }
 
     .name {
-        font-size: 2vw;
-        margin-left: 0vw;
+        font-size: 2.5vw;
+        margin-left: 1px;
         margin-right: 30vw;
         margin-top: 3vw;
         padding: 15px;
+    }
+
+    .info{
+        padding-right: 3px;
     }
 
     .TextEnterBirthday {
@@ -408,9 +426,10 @@ a {
     }
 
     .main-nav {
-        margin-left: 190vw;
-        padding-left: 120vw;
-        font-size: 2vw;
+        margin-right: 0vw;
+        margin-left: 150vw;
+        padding-left: 100vw;
+        font-size: 3vw;
         padding-bottom: 3vw;
         padding-top: 6vw;
     }
@@ -420,41 +439,51 @@ a {
     }
 
     .links {
-        padding-right: 10vw;
-        margin-left: 5vw;
+        padding-right: 0vw;
         font-size:  2vw;
     }
 
     .BirthdayField{
         font-size: 2vw;
-        margin-left: 36vw;
+        margin-left: 36.5vw;
     }
 
     .button-calculator{
         font-size: 2vw;
-        margin-left:0vw;
+        margin-left:-17vw;
     }
 
     .calculatedAnswer{
-        font-size: 3vw;
+        font-size: 4vw;
+        margin-left: -10vw;
     }
 
     .myH9{
-        font-size: 3vw;
+        font-size: 4vw;
+        margin-left: -10vw;
 
     }
 
     .myH8{
-        font-size: 3vw;
+        font-size: 4vw;
+        margin-left: -10vw;
     }
 
     .myH7{
-        font-size: 3vw;
+        font-size: 4vw;
+        margin-left: -10vw;
+    }
+
+    body{
+        margin-right: -15vw;
     }
 
 }
 
 @media (min-width: 1300px) {
+    * {
+        margin-right: 6vw;
+    }
 
     .PicturesEarth {
         width: 80vw;
@@ -467,26 +496,26 @@ a {
         font-size: 9vw;
         margin-top: 25vh;
         -webkit-text-stroke: 3px black;
-        margin-left: -3vw;
+        margin-left: -7vw;
     }
 
     .name {
         font-size: 2vw;
         margin-left: 0vw;
-        margin-right: 30vw;
-        margin-top: 3vw;
+        margin-right: 50vw;
+        margin-top: 2.5vw;
         padding: 15px;
     }
 
     .TextEnterBirthday {
         font-size: 5.5vw;
         -webkit-text-stroke: 3px black;
-        margin-left: -5vw;
+        margin-left: 0vw;
     }
 
     .main-nav {
-        margin-left: 180vw;
-        padding-left: 120vw;
+        margin-left: 170vw;
+        padding-left: 100vw;
         font-size: 2vw;
         padding-bottom: 3vw;
         padding-top: 6vw;
@@ -499,17 +528,17 @@ a {
     .links {
         padding-right: 10vw;
         font-size:  2vw;
-        margin-left: 10vw;
+        margin-left: 12.5vw;
     }
 
     .BirthdayField{
         font-size: 2.5vw;
-        margin-left: 18.5vw;
+        margin-left: 24vw;
     }
 
     .button-calculator{
         font-size: 2vw;
-        margin-left:-5vw;
+        margin-left:-12.5vw;
     }
 
     .calculatedAnswer{
