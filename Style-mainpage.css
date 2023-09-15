@@ -246,10 +246,10 @@ a {
     }
 
     .name {
-        font-size: 3vw;
+        font-size: 4vw;
         margin-left: -1vw;
         margin-right: 1px;
-        margin-top: 3vh;
+        margin-top: 2.5vh;
         padding: 9px;
     }
 
@@ -408,7 +408,7 @@ a {
     .PicturesEarth {
         width: 90vw;
         height: 90vw;
-        margin-top: -80vw;
+        margin-top: -80hw;
         margin-left: 0vw;
     }
 
@@ -494,9 +494,9 @@ a {
 @media (min-width: 1300px) {
 
     .PicturesEarth {
-        width: 80vw;
-        height: 80vw;
-        margin-top: -99vh;
+        width: 90vw;
+        height: 90vw;
+        margin-top: -75vw;
         margin-left: 0vw;
     }
 
@@ -504,7 +504,7 @@ a {
         font-size: 9vw;
         margin-top: 25vh;
         -webkit-text-stroke: 3px black;
-        margin-left: -7vw;
+        margin-left: 0vw;
     }
 
     .name {
